@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🌱 I’m currently learning new web technologies and frameworks.
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
 - 💬 Ask me about JavaScript, React, Node.js, or anything related to web development.
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](mailto:saranga@codescale.lk)
 - ⚡ Fun fact: I love exploring new places and cultures.
 
 ## 🛠️ Technologies & Tools
@@ -27,8 +27,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Website](https://your-website.com)
+- [LinkedIn](https://www.linkedin.com/in/saranga-gunasekara)
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on any projects or just want to chat about tech.
